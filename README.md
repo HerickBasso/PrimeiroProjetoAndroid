@@ -4,7 +4,7 @@
 <h2> Primeiro projeto feito com android studio, linguagem usada: Java. </h2>
   
 <h1> Layout mobile </h1>
-<img src="https://tela 1.jpg" alt="calculadora"/> 
+<img src="./tela 1.jpg" width="250px" heigth="150px"alt="calculadora"/> 
   
 <h1> BackEnd </h1>
 <h2> Java </h2>
