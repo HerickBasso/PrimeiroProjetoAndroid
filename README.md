@@ -4,7 +4,7 @@
 <h2> Primeiro projeto feito com android studio, linguagem usada: Java. </h2>
   
 <h1> Layout mobile </h1>
-<img align="center" src="![Screenshot_20231024-143144_Meu App 1](https://github.com/HerickBasso/PrimeiroProjetoAndroid/assets/83786455/f0c3868d-c67b-40dd-84c9-814f33752379)"
+![Tela 1](Screenshot_20231024-143144_Meu App 1.jpg)
 
 <h1> BackEnd </h1>
 <h2> Java </h2>
