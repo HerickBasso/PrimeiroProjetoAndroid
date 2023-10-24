@@ -4,7 +4,7 @@
 <h2> Primeiro projeto feito com android studio, linguagem usada: Java. </h2>
 <br>
 <h1> Layout mobile </h1>
-![Tela 1](Screenshot_20231024-143144_Meu App 1.jpg)
+![tela 1](tela 1.jpg)
 <br>
 <h1> BackEnd </h1>
 <h2> Java </h2>
